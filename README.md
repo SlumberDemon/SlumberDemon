@@ -4,11 +4,11 @@
 
 Hi, I make random stuff, mostly in python most of my good projects 
 are private but the pins also have some "good" projects. Also below is a link
-to some more projects which are/aren't coding related
+to my website
 
----- Projects -----
+---- Website -----
 
-https://slumberdemon.carrd.co/#projects
+https://sleep.deta.dev
 
 
 
