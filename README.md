@@ -3,6 +3,6 @@
 -------------------
 https://sleep.deta.dev
 
-![Website](https://sleep.deta.dev/cdn/red.png)
+![Website](https://school.deta.dev/cdn/wall_smol.png)
 
 
