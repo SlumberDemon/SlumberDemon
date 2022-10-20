@@ -3,9 +3,9 @@
 
 <details>
   <summary markdown="span">More stats</summary>
-  ![big](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slumberdemon&theme=radical)
-  ![More](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=slumberdemon&theme=radical&utcOffset=8)
-  ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=slumberdemon&theme=radical)
+![big](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slumberdemon&theme=radical)
+![More](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=slumberdemon&theme=radical&utcOffset=8)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=slumberdemon&theme=radical)
 </details>
 
 
