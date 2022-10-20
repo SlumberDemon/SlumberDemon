@@ -3,11 +3,10 @@
 
 <details>
   <summary markdown="span">More stats</summary>
-![big](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slumberdemon&theme=radical)
-![More](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=slumberdemon&theme=radical&utcOffset=8)
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=slumberdemon&theme=radical)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slumberdemon&theme=radical" alt="img">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=slumberdemon&theme=radical&utcOffset=8" alt="img">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=slumberdemon&theme=radical" alt="img">
 </details>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=slumberdemon&theme=radical" alt="Italian Trulli">
 
 
 -------------------
