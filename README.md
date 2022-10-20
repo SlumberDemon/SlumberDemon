@@ -7,6 +7,7 @@
 ![More](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=slumberdemon&theme=radical&utcOffset=8)
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=slumberdemon&theme=radical)
 </details>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=slumberdemon&theme=radical" alt="Italian Trulli">
 
 
 -------------------
