@@ -3,9 +3,9 @@
 
 <details>
   <summary markdown="span">More stats</summary>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slumberdemon&theme=buefy&hide_border=true" alt="img">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=slumberdemon&theme=buefy&utcOffset=8&hide_border=true" alt="img">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=slumberdemon&theme=buefy&hide_border=true" alt="img">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slumberdemon&theme=buefy" alt="img">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=slumberdemon&theme=buefy&utcOffset=8" alt="img">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=slumberdemon&theme=buefy" alt="img">
 </details>
 
 
