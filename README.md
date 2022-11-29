@@ -1,7 +1,4 @@
-> ![SlumberDemon's GitHub stats](https://github-readme-stats.vercel.app/api?username=slumberdemon&hide=issues,prs&show_icons=true&theme=radical&hide_border)
-> ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slumberdemon&layout=compact&theme=radical&hide_border)
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=slumberdemon&show_icons=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slumberdemon&layout=compact&theme=buefy&hide_border=true" alt="" /> |
+>>> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=slumberdemon&show_icons=true&hide=issues,prs&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slumberdemon&layout=compact&theme=buefy&hide_border=true" alt="" /> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <details>
