@@ -1,6 +1,6 @@
 <div align="center">
   
-  [🔮 Homepage](https://sofa.sh) - [✉️ Email](mailto:hi@sofa.sh) - [🐦 Twitter](https://twitter.com/slumberdemon) 
+  [🔮 Homepage](https://sofa.sh) · [✉️ Email](mailto:hi@sofa.sh) · [🐦 Twitter](https://twitter.com/slumberdemon) 
   
 </div>
 
