@@ -1,8 +1,11 @@
+<div align="center">
+  
+  [🔮 Homepage](https://sofa.sh) - [✉️ Email](mailto:hi@sofa.sh) - [🐦 Twitter](https://twitter.com/slumberdemon) 
+  
+</div>
+
 | <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=slumberdemon&show_icons=true&hide=issues,prs&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=slumberdemon&layout=compact&theme=buefy&hide_border=true" alt="" /> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-## 🏡 Website
-- [sofa.sh](https://sofa.sh) 
 
 ## 🗃️ Miscellaneous
 <a href="https://code.visualstudio.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/007ACC" />
