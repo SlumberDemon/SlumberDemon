@@ -26,6 +26,7 @@
 <a href="https://html.spec.whatwg.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/html5/E34F26" />
 <a href="https://www.w3.org/TR/CSS/#css"><img height="32" width="32" src="https://cdn.simpleicons.org/css3/1572B6" />
 <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/"><img height="32" width="32" src="https://cdn.simpleicons.org/javascript/F7DF1E" />
+<a href="https://www.gnu.org/software/bash/"><img height="32" width="32" src="https://cdn.simpleicons.org/gnubash/4EAA25" />
 <a href="https://tailwindcss.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss/06B6D4" />
 <a href="https://fastapi.tiangolo.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/fastapi/009688" />
 
