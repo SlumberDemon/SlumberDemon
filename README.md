@@ -21,7 +21,7 @@
 <a href="https://www.adobe.com/products/photoshop"><img height="32" width="32" src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" />
 
 ## 🍳 Skills
-<a href="https://deta.space"><img height="32" width="32" src="https://deta.space/assets/deta.7c76948e.svg" />
+<a href="https://deta.space"><img height="32" width="32" src="https://deta.space/assets/deta-7c76948e.svg" />
 <a href="https://www.python.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/python/3776AB" />
 <a href="https://html.spec.whatwg.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/html5/E34F26" />
 <a href="https://www.w3.org/TR/CSS/#css"><img height="32" width="32" src="https://cdn.simpleicons.org/css3/1572B6" />
