@@ -13,3 +13,4 @@
 <a href="https://www.typescriptlang.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/typescript/3178C6" />
 <a href="https://www.rust-lang.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/rust/E64E11" />
 <a href="https://developer.apple.com/swift/"><img height="32" width="32" src="https://cdn.simpleicons.org/swift/F05138" />
+<a href="https://developer.android.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/androidstudio/3DDC84" />
