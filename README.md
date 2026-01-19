@@ -1,6 +1,6 @@
 <div align="center">
   
-  [🔮 Homepage](https://sofa.sh) · [✉️ Email](mailto:hi@sofa.sh) · [🦋 Bluesky](https://bsky.app/profile/sofa.sh) 
+  [🔮 Homepage](https://sofa.sh) · [✉️ Email](mailto:hi@sofa.sh) · [🦋 Bluesky](https://bsky.app/profile/sofa.sh) · [📁 Git](https://git.sofa.sh) 
   
 </div>
 
